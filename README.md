@@ -1,3 +1,5 @@
+# If you know interesting seetings that can be changed for Honor phone please let us know !
+
 # Honor-X7-settings
 Settings from Honor X7a phone accessed from adb:<br>
 ./adb shell<br>
