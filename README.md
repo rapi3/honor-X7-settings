@@ -1,4 +1,8 @@
 # If you know interesting seetings that can be changed for Honor phone please let us know !
+I am interested if you know how to trick the phone to upgrade/downgrade to a specific version for example:<br>
+RKY-L31 8.0.0.182(C431E2R2P2).<br>
+or<br>
+RKY-L31 8.0.0.194(C431E2R2P2)<br>
 
 # Honor-X7-settings
 Settings from Honor X7a phone accessed from adb:<br>
